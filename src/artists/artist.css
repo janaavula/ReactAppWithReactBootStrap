@@ -1,0 +1,9 @@
+.artists ul {
+  list-style: none;
+}
+.artists a {
+  text-decoration: none;
+}
+.artists a:focus {
+  color: #40a060;
+}

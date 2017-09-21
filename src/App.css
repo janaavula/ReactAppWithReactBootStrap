@@ -1,0 +1,8 @@
+main {
+  text-align: center;
+}
+
+.activeLink {
+  font-weight: bold;
+  color: #40a060;
+}
